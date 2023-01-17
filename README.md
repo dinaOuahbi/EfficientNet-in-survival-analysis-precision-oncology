@@ -1,10 +1,7 @@
 # EfficientNet-in-survival-analysis-precision-oncology
 
-Auteur : Tan et le, 2019
 
-flops (nombre  d'opération de calcule des flottants par seconde) minimisés 
-
-famille EfficientNet [b0-b7] : la résolution du model augmente de 0 à 7
+famille EfficientNet [b0-b7] : la résolution du model augmente de 0 à 7     (Tan et le, 2019)
 
 Dépendance : Version Tensorflow : tf2.3
 
